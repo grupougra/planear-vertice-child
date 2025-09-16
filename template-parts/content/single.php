@@ -65,7 +65,7 @@
 												//si no hay tags no hace el div
 												if ( has_tag() ) : ?>
 													<div class="position-relative wp-block-kubio-post-tags__tags vertice-single__k__single-tlSt_AyBi-tags vertice-local-682-tags">
-														<?php vertice_tags_list( __( 'No tags', 'vertice' ) ); ?>
+														<?php vertice_tags_list( __( 'No tagssssssss', 'vertice' ) ); ?>
 													</div>
 												<?php
 												//fin condicional
